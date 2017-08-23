@@ -11,3 +11,4 @@ if (cardsInPlay.length === 2 && cardsInPlay[0] === cardsInPlay[1]) {
 } else {
 	alert("Sorry, try again.");
 }
+  
